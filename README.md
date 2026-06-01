@@ -18,6 +18,6 @@ This is a mini automation testing framework built using Python, Playwright, and 
 ## Run Tests
 
 **```bash
-run the command in venv directory
+run the command in venv directory and run : 
 pytest -v
 ```**
